@@ -20,25 +20,25 @@
     {
         "Fecha": "2004-06-15",
         "Nombre": "Ana Gomez",
-        "Grado": "6°",
+        "Grado": "7°",
         "Calificacion": 3.7
     },
     {
         "Fecha": "2005-06-17",
         "Nombre": "Luis Martinez",
-        "Grado": "6°",
+        "Grado": "8°",
         "Calificacion": 3.9
     },
     {
         "Fecha": "2008-06-18",
         "Nombre": "Elena Torres",
-        "Grado": "6°",
+        "Grado": "11°",
         "Calificacion": 4.2
     },
     {
         "Fecha": "2001-06-19",
         "Nombre": "Jorge Hernandez",
-        "Grado": "6°",
+        "Grado": "9°",
         "Calificacion": 3.4
     },
     {
@@ -50,13 +50,13 @@
     {
         "Fecha": "2006-06-22",
         "Nombre": "David Sanchez",
-        "Grado": "6°",
+        "Grado": "5°",
         "Calificacion": 4.1
     },
     {
         "Fecha": "2007-06-23",
         "Nombre": "Laura Vargas",
-        "Materia": "Arte",
+        "Grado": "8°",
         "Calificacion": 3.8
     }
 ]
